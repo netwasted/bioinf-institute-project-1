@@ -13,7 +13,7 @@ https://doi.org/10.6084/m9.figshare.10006541.v3
 
 Laboratory Notebook, which is made as a Jupyter Notebook, is uploaded directly in this repository. All the necessary commands and data processing is listed there. To recreate the results, one should simply download the raw data and run the notebook.
 
-## HTML reports (before and after trimming)
+## FastQC reports (before and after trimming)
 
 Can be found in corresponding folder.
 
